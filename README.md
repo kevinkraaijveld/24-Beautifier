@@ -11,7 +11,7 @@ HTML Beautifier is a web-based tool that allows you to beautify and format HTML 
 - If an error occurs during the beautification process, an alert message will be displayed.
 
 ## Demo
-You can try the Lingo Game [here](https://www.sololearn.com/compiler-playground/W12F5qkHOt0J).
+You can try the HTML Beautifier [here](https://www.sololearn.com/compiler-playground/W12F5qkHOt0J).
 
 ## Usage
 
