@@ -26,7 +26,9 @@ You can try the Lingo Game [here](https://www.sololearn.com/compiler-playground/
 
 The HTML Beautifier tool relies on the following dependencies:
 
-- [Prettier](https://prettier.io/) - A JavaScript code formatter used for beautifying the HTML code.
+- [Prettier standalone](https://cdn.jsdelivr.net/npm/prettier@2.4.1/standalone.js)
+- [Prettier parser-html](https://cdn.jsdelivr.net/npm/prettier@2.4.1/parser-html.js)
+
 
 ## Contributions
 
