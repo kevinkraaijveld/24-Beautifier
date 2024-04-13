@@ -1,4 +1,4 @@
-# HTML Beautifier
+# 24-HTML Beautifier
 
 HTML Beautifier is a web-based tool that allows you to beautify and format HTML code for better readability. It takes input HTML code and outputs properly indented and formatted code.
 
