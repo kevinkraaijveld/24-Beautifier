@@ -33,3 +33,15 @@ The HTML Beautifier tool relies on the following dependencies:
 ## Contributions
 
 Contributions to the HTML Beautifier project are welcome! If you find any issues or have suggestions for improvements, please let me know
+
+Made by Kevin Kraaijveld
+
+Senior software developer student
+
+[Live version CMS system](https://kevii.nl/php/cms_system/)
+
+www.linkedin.com/in/kevinkraaijveld
+
+www.github.com/kevinkraaijveld
+
+https://www.sololearn.com/en/profile/6274601
