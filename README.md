@@ -38,8 +38,6 @@ Made by Kevin Kraaijveld
 
 Senior software developer student
 
-[Live version CMS system](https://kevii.nl/php/cms_system/)
-
 www.linkedin.com/in/kevinkraaijveld
 
 www.github.com/kevinkraaijveld
